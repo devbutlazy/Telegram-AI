@@ -1,0 +1,6 @@
+nest_asyncio
+aiogram
+langdetect
+g4f
+gtts
+logging
