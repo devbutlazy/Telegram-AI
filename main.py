@@ -8,7 +8,7 @@ from aiogram.enums import ParseMode
 
 from routers import commands, handlers
 
-TOKEN = "7024655406:AAGT5Ga5X9CtoIE9SSn-NnqN8suv8Go5amA"
+TOKEN = "TOKEN"
 
 
 async def main() -> None:
